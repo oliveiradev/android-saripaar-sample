@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-saripaar-sample</string>
+    <string name="hint_edit_text_email">Digite seu email</string>
+    <string name="hint_edit_text_pass">Digite sua senha</string>
+    <string name="hint_edit_text_confirm_pass">Confirme a senha</string>
+    <string name="button_text_create">Cadastrar</string>
+</resources>
